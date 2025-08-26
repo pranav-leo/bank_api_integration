@@ -1241,7 +1241,7 @@
    "name": "Outward Bank Payment-against_gta_sub_customer",
    "no_copy": 0,
    "non_negative": 0,
-   "options": "GTA Sub Customer",
+   "options": "Customer",
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
